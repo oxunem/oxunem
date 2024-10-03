@@ -16,7 +16,7 @@
   </a>
 </div>
 
-### 🤷‍♂️ About Me:
+### 🤷‍♂️ About me:
 - 🔭 I am proficient in C and C++.
 - 🌱 I am currently learning Python.
 - 💉 I am fond of game hacking.
