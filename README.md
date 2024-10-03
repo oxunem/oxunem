@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <h2>👋 Hi there, I'm oxunem.</h2>
+  <h1>👋 Hi there, I'm oxunem.</h1>
   <h3>👨‍💻 I am a developer from Poland.</h3>
 </div>
 
