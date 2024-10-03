@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611fhrj5vljwki8o5knro6z3eegdl5wxnnnzg93vx1i&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611fhrj5vljwki8o5knro6z3eegdl5wxnnnzg93vx1i&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="100"/>
 </div>
 
 ## 👋 Hi there, I'm oxunem.
