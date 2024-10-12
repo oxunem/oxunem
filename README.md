@@ -20,8 +20,9 @@
 - 🔭 I am proficient in C and C++.
 - 🌱 I am currently learning Python.
 - 💉 I am fond of game hacking.
-- :octocat: I know how to use Git.
-- 🤖 I also know how to use neural networks correctly.
+- 🛡️ Windows kernel driver development (WDM, KMDF)
+- 💻 System programming in C/C++
+- 🖥️ Development of user-mode applications for Windows
 
 ---
 
