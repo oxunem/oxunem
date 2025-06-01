@@ -23,7 +23,9 @@
 - 🔹 C/C++ (kernel & user mode)  
 - 🔹 Kernel driver development (WDM/KMDF)  
 - 🔹 Hypervisor-level projects  
+- 🔹 UEFI research & development  
 - 🔹 Game hacking & anti-cheat bypass  
+- 🔹 Malware development & analysis  
 - 🔹 Reverse engineering (basic/intermediate, still learning)  
 - 🔹 Basic Python scripting  
 
