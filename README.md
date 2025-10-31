@@ -18,7 +18,7 @@
 
 ---
 
-### 🧩 About me
+### 🧩 About Me
 
 - 🔹 C/C++ (kernel & user mode)  
 - 🔹 Kernel driver development (WDM/KMDF)  
@@ -32,7 +32,7 @@
 
 ---
 
-### 🧰 Tech stack
+### 🧰 Tech Stack
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
